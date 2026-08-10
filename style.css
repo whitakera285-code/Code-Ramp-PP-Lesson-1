@@ -1,8 +1,29 @@
+/* BART & MUNI Line Colors */
+
 .red {
   color: red;
 }
 
 .orange {
-
+  color: orange;
 }
 
+.yellow {
+  color: gold;
+}
+
+.blue {
+  color: blue;
+}
+
+.green {
+  color: green;
+}
+
+.lightblue {
+  color: lightskyblue;
+}
+
+.purple {
+  color: purple;
+}
